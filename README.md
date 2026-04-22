@@ -19,9 +19,9 @@
 
 ## 🚀 Sobre mim
 
-💻 Focado em desenvolvimento e novas tecnologias  
-📚 Sempre aprendendo e evoluindo  
-🎯 Em busca de criar projetos impactantes  
+💻 Desenvolvedor focado em evolução constante  
+📚 Sempre aprendendo novas tecnologias  
+🎯 Criando projetos modernos e funcionais  
 🔥 Transformando ideias em realidade
 
 ---
@@ -40,9 +40,10 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram)](https://instagram.com/vinicius.santana.leite)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinicius-santana-leite-9a8b63152/)
+[![Gmail](https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail)](mailto:vleite575@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-111?style=for-the-badge&logo=whatsapp)](https://wa.me/5545998506681)
 
 </div>
 
