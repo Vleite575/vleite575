@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+constante+evolução;Apaixonado+por+tecnologia;Criando+projetos+modernos+e+criativos" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Criando+projetos+modernos+e+funcionais" />
 
 <br><br>
 
@@ -19,18 +19,23 @@
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor focado em evolução constante  
-📚 Sempre aprendendo novas tecnologias  
-🎯 Criando projetos modernos e funcionais  
-🔥 Transformando ideias em realidade
+💻 Desenvolvedor focado em criar soluções modernas e funcionais  
+⚡ Trabalho com front-end, back-end e infraestrutura  
+📚 Sempre aprendendo e evoluindo com novas tecnologias  
+🎯 Buscando transformar ideias em projetos reais
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,vue,react,linux,laravel" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
 
 </div>
 
